@@ -1,22 +1,14 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 01/08/2025.
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 06/12/2025.
 https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" ,AGRO+ HD
-http://saga10.pro:80/345715/562156/1263147
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png" ,AGRO+ SD
-http://saga10.pro:80/345715/562156/1263146
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" ,CANAL DO BOI FHD
 http://saga10.pro:80/345715/562156/1263157
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" ,CANAL DO BOI HD
 http://saga10.pro:80/345715/562156/1263156
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/M1hQQI.png" ,CANAL DO BOI SD
 http://saga10.pro:80/345715/562156/1263155
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dPo0pf.png" ,CANAL RURAL
-http://saga10.pro:80/345715/562156/1263158
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" ,REDE BRASIL SD
 http://saga10.pro:80/345715/562156/1263324
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/29yTmQ.png" ,REDE FAMÍLIA HD
-http://saga10.pro:80/345715/562156/1263325
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" ,REDETV! FHD
 http://saga10.pro:80/345715/562156/1263328
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/1Tz7RO.png" ,REDETV! HD
@@ -39,128 +31,14 @@ http://saga10.pro:80/345715/562156/1263342
 http://saga10.pro:80/345715/562156/1263341
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/7K1pAt.jpg" ,TV CÂMARA
 http://saga10.pro:80/345715/562156/1263340
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/LpBVpR.png" ,TV JUSTIÇA
-http://saga10.pro:80/345715/562156/1263346
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/TISeDi.png" ,TV SENADO
-http://saga10.pro:80/345715/562156/1263347
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/XF7jhD.png" ,TVE BRASIL SD
 http://saga10.pro:80/345715/562156/1263348
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 1 FHD
-http://saga10.pro:80/345715/562156/2818780
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 2 FHD
-http://saga10.pro:80/345715/562156/2818779
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 3 FHD
-http://saga10.pro:80/345715/562156/2818778
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 4 FHD
-http://saga10.pro:80/345715/562156/3878341
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 5 FHD
-http://saga10.pro:80/345715/562156/3878342
-#EXTINF:-1 group-title="CAZÉ TV" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png" ,CAZE 6 FHD
-http://saga10.pro:80/345715/562156/3878343
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | AMC HD
-http://saga10.pro:80/345715/562156/2819105
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | AZ CINEMA HD
-http://saga10.pro:80/345715/562156/2819112
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | CINECANAL HD
-http://saga10.pro:80/345715/562156/2819113
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | CINEMAX (MX) HD
-http://saga10.pro:80/345715/562156/2819140
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | DE PELICULA
-http://saga10.pro:80/345715/562156/2819147
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | DE PELICULA PLUS HD
-http://saga10.pro:80/345715/562156/2819114
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | FX (MX) FHD
-http://saga10.pro:80/345715/562156/2819106
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | FX FHD ( DUAL AUDIO)
-http://saga10.pro:80/345715/562156/2819152
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | GOLDEN PLUS HD
-http://saga10.pro:80/345715/562156/2819117
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | GOLDEN PREMIER HD
-http://saga10.pro:80/345715/562156/2819118
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO 2 HD
-http://saga10.pro:80/345715/562156/2819120
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO FAMILY
-http://saga10.pro:80/345715/562156/2819143
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO HD (LAT)
-http://saga10.pro:80/345715/562156/2819119
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO HD LATINO
-http://saga10.pro:80/345715/562156/2819149
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO PLUS
-http://saga10.pro:80/345715/562156/2819142
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO POP
-http://saga10.pro:80/345715/562156/2819144
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO SIGNATURE
-http://saga10.pro:80/345715/562156/2819141
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | HBO XTREME HD
-http://saga10.pro:80/345715/562156/2819151
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | MOREMAX
-http://saga10.pro:80/345715/562156/2819135
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | OUTERMAX
-http://saga10.pro:80/345715/562156/2819134
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | PARAMOUNT CHANNEL HD
-http://saga10.pro:80/345715/562156/2819107
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | SHOWTIME BEYOND
-http://saga10.pro:80/345715/562156/2819133
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | SHOWTIME HD
-http://saga10.pro:80/345715/562156/2819132
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | SONY HD
-http://saga10.pro:80/345715/562156/2819108
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | SPACE HD
-http://saga10.pro:80/345715/562156/2819109
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR ACTION (DUAL AUDIO)
-http://saga10.pro:80/345715/562156/2819115
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR CHANNEL HD
-http://saga10.pro:80/345715/562156/2819136
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR COMEDY ( DUAL AUDIO)
-http://saga10.pro:80/345715/562156/2819139
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR FUN
-http://saga10.pro:80/345715/562156/2819137
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR FUN (DUAL AUDIO)
-http://saga10.pro:80/345715/562156/2819116
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STAR SERIES HD
-http://saga10.pro:80/345715/562156/2819138
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ BLACK
-http://saga10.pro:80/345715/562156/2819131
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ CINEMA HD
-http://saga10.pro:80/345715/562156/2819130
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ EDGE
-http://saga10.pro:80/345715/562156/2819128
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ ENCORE ACTION
-http://saga10.pro:80/345715/562156/2819127
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ ENCORE CLASSIC
-http://saga10.pro:80/345715/562156/2819126
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ ENCORE FAMILY HD
-http://saga10.pro:80/345715/562156/2819125
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ ENCORE SUSPENSE
-http://saga10.pro:80/345715/562156/2819124
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ ENCORE WESTERN
-http://saga10.pro:80/345715/562156/2819123
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STARZ HD
-http://saga10.pro:80/345715/562156/2819129
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | STUDIO UNIVERSAL HD
-http://saga10.pro:80/345715/562156/2819146
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | SYFY FHD
-http://saga10.pro:80/345715/562156/2819148
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | TNT HD DUAL
-http://saga10.pro:80/345715/562156/2819121
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | TNT NOVELAS
-http://saga10.pro:80/345715/562156/2819145
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | TNT SERIES HD
-http://saga10.pro:80/345715/562156/2819110
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | UNIVERSAL CHANNEL (MX)
-http://saga10.pro:80/345715/562156/2819122
-#EXTINF:-1 group-title="CINE HD" ,CINE HD | WARNER CHANNEL HD (DUAL AUDIO)
-http://saga10.pro:80/345715/562156/2819111
-#EXTINF:-1 group-title="CINE HD" ,USA LATINO | HBO LATINO HD
-http://saga10.pro:80/345715/562156/2819150
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 1
 http://saga10.pro:80/345715/562156/3014766
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 10
 http://saga10.pro:80/345715/562156/3014775
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 11
 http://saga10.pro:80/345715/562156/2151034
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 13
-http://saga10.pro:80/345715/562156/2151032
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 2
 http://saga10.pro:80/345715/562156/3014767
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/0rd4ju.png" ,CINE SKY 3
@@ -243,60 +121,10 @@ http://saga10.pro:80/345715/562156/1262988
 http://saga10.pro:80/345715/562156/1262987
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" ,HISTORY CHANNEL SD
 http://saga10.pro:80/345715/562156/1262986
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" ,PRIME BOX BRAZIL FHD
-http://saga10.pro:80/345715/562156/1263000
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" ,PRIME BOX BRAZIL HD
-http://saga10.pro:80/345715/562156/1262999
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" ,PRIME BOX BRAZIL SD
-http://saga10.pro:80/345715/562156/1262998
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 1
-http://saga10.pro:80/345715/562156/3842057
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 10
-http://saga10.pro:80/345715/562156/3842066
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 11
-http://saga10.pro:80/345715/562156/3842067
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 12
-http://saga10.pro:80/345715/562156/3842068
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 13
-http://saga10.pro:80/345715/562156/3842069
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 14
-http://saga10.pro:80/345715/562156/3842070
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 15
-http://saga10.pro:80/345715/562156/3842071
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 16
-http://saga10.pro:80/345715/562156/3842072
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 17
-http://saga10.pro:80/345715/562156/3842073
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 18
-http://saga10.pro:80/345715/562156/3842074
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 19
-http://saga10.pro:80/345715/562156/3842075
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 2
-http://saga10.pro:80/345715/562156/3842058
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 20
-http://saga10.pro:80/345715/562156/3842076
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 3
-http://saga10.pro:80/345715/562156/3842059
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 4
-http://saga10.pro:80/345715/562156/3842060
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 5
-http://saga10.pro:80/345715/562156/3842061
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 6
-http://saga10.pro:80/345715/562156/3842062
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 7
-http://saga10.pro:80/345715/562156/3842063
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 8
-http://saga10.pro:80/345715/562156/3842064
-#EXTINF:-1 group-title="ESPECIAIS CINE 24h" tvg-logo="https://i.ibb.co/7CdFRBh/b0mb-N8o-400x400.png" ,CINE 24 HORAS 9
-http://saga10.pro:80/345715/562156/3842065
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="http://appcliente.com:8880/images/1d6568c4d1167a00410efd579474580c.png" ,3 PALAVRINHAS
-http://saga10.pro:80/345715/562156/2639316
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" ,44 GATOS
 http://saga10.pro:80/345715/562156/2639317
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" ,A CASA MAGICA DA GABBY
 http://saga10.pro:80/345715/562156/2639318
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" ,A FAMILIA ADAMS
-http://saga10.pro:80/345715/562156/2639319
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" ,A FORMIGA E O TAMANDUÁ
 http://saga10.pro:80/345715/562156/2639320
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/923/w95jle.png" ,A GALINHA PINTADINHA
@@ -315,22 +143,14 @@ http://saga10.pro:80/345715/562156/2639326
 http://saga10.pro:80/345715/562156/2639327
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/oDn5rU.png" ,A ÁRVORE FAMILIAR DOS CROODS
 http://saga10.pro:80/345715/562156/2639328
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/dDff8P.png" ,AS AVENTURAS DE LADYBUG
-http://saga10.pro:80/345715/562156/2639334
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/7OCsQd.png" ,AS AVENTURAS DE TINTIM
 http://saga10.pro:80/345715/562156/2639335
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/YgZwHu.png" ,AS TARTARUGAS NINJA
 http://saga10.pro:80/345715/562156/2639338
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/qqCw0I.png" ,BABY LOONEY TUNES
-http://saga10.pro:80/345715/562156/2639339
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/img922/9797/kME6OB.gif" ,BACAMARTE E CHUMBINHO
 http://saga10.pro:80/345715/562156/2639340
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/X2fNEQ.png" ,BARBIE
-http://saga10.pro:80/345715/562156/2639343
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/ikWxSX.png" ,BATMAN ANIMATED SERIE
 http://saga10.pro:80/345715/562156/2639345
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/tOpq8k.png" ,BATMAN DO FUTURO
-http://saga10.pro:80/345715/562156/2639346
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/cgTdHe.png" ,BATMAN E ROBIN (CLÁSSICO)
 http://saga10.pro:80/345715/562156/2639347
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/7ccKwD.png" ,BATWHEELS
@@ -359,8 +179,6 @@ http://saga10.pro:80/345715/562156/2639362
 http://saga10.pro:80/345715/562156/2639364
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/xjaGR4.png" ,CAVERNA DO DRAGÃO
 http://saga10.pro:80/345715/562156/2639365
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/10rTPW.png" ,CHAVES ANIMADO
-http://saga10.pro:80/345715/562156/2639366
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/BHFeNm.png" ,COMANDOS EM AÇÃO
 http://saga10.pro:80/345715/562156/2639367
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/GOLKXX.png" ,COMICHÃO E COÇADINHA
@@ -379,8 +197,6 @@ http://saga10.pro:80/345715/562156/2639374
 http://saga10.pro:80/345715/562156/2639375
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/korkeT.png" ,DI-GATA DEFENDERS
 http://saga10.pro:80/345715/562156/2639376
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/OkLi7v.png" ,DIGIMON ADVENTURE
-http://saga10.pro:80/345715/562156/2639378
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/Jy8DAH.png" ,DOUG FUNNIE
 http://saga10.pro:80/345715/562156/2639379
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/dUaSis.png" ,DRAGON BALL Z
@@ -389,12 +205,8 @@ http://saga10.pro:80/345715/562156/2639380
 http://saga10.pro:80/345715/562156/2639381
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/G4qUjp.png" ,DUCK DODGES
 http://saga10.pro:80/345715/562156/2639382
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/vkMF8I.png" ,DUCKTALES
-http://saga10.pro:80/345715/562156/2639383
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcnd8D.png" ,FALCÃO AZUL E BIONICÃO
 http://saga10.pro:80/345715/562156/2639385
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="http://appcliente.com:8880/images/3ac98e36cac4fd077e18dfcef6aa1776.png" ,FLASH GORDON - (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2639386
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/3pJNkj.png" ,FORMIGA ATÔMICA
 http://saga10.pro:80/345715/562156/2639387
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/1bYhXD.png" ,FRANGO KUNG FU
@@ -429,22 +241,16 @@ http://saga10.pro:80/345715/562156/2639408
 http://saga10.pro:80/345715/562156/2639409
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/82arbB.png" ,LIGEIRINHO
 http://saga10.pro:80/345715/562156/2639410
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/VlnhQA.png" ,LOONEY TUNES
-http://saga10.pro:80/345715/562156/2639412
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/img924/1707/g0Htxb.png" ,MASHA E O URSO
 http://saga10.pro:80/345715/562156/2639415
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/uuKYZV.png" ,MEU AMIGO DA ESCOLA E UM MACACO
 http://saga10.pro:80/345715/562156/2639416
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Vaehef.png" ,MICKEY E DONALD
 http://saga10.pro:80/345715/562156/2639417
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/xRLBZr.png" ,MICKEY MOUSE
-http://saga10.pro:80/345715/562156/2639418
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/RrIc0A.png" ,MICKEY MOUSE - CLÁSSICO
 http://saga10.pro:80/345715/562156/2639419
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/MpMPrb.png" ,MISTER MAGOO
 http://saga10.pro:80/345715/562156/2639420
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WEB3bJ.png" ,MORTAL KOMBAT
-http://saga10.pro:80/345715/562156/2639421
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/AX7ijA.png" ,O FANTÁSTICO MUNDO DE BOBBY
 http://saga10.pro:80/345715/562156/2639423
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/WUPyfJ.png" ,O MÁSKARA
@@ -455,8 +261,6 @@ http://saga10.pro:80/345715/562156/2639425
 http://saga10.pro:80/345715/562156/2639426
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/922/qZrBpA.png" ,OS FLINTSTONES
 http://saga10.pro:80/345715/562156/2639427
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/923/Zs2XD0.png" ,OS JETSONS
-http://saga10.pro:80/345715/562156/2639428
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/VBMZ98.png" ,OS JOVENS TITANS
 http://saga10.pro:80/345715/562156/2639429
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/img923/8383/Q8xd4y.png" ,OS PADRINHOS MÁGICOS
@@ -471,8 +275,6 @@ http://saga10.pro:80/345715/562156/2639434
 http://saga10.pro:80/345715/562156/2639435
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://4.bp.blogspot.com/-wMxtQXyabR0/VzJGNPP__YI/AAAAAAABLMU/_TFkz1XeDpcc5-EO6jqxbXuxLByX3tqIQCLcB/s1600/pantera-cor-de-rosa-colorir-pintar-imprimir-desenho-imagem-molde-risco-pink-panther-coloring-pages-dibujos-www.espacoeducar-colorir.com%2B%25281%2529.png" ,PANTERA COR DE ROSA
 http://saga10.pro:80/345715/562156/2639436
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/unQUTw.png" ,PAPA LÉGUAS
-http://saga10.pro:80/345715/562156/2639437
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/img921/9915/tNFkhE.png" ,PATATI PATATA
 http://saga10.pro:80/345715/562156/2639438
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/ko9inv.png" ,PATRULHA CANINA
@@ -495,8 +297,6 @@ http://saga10.pro:80/345715/562156/2639454
 http://saga10.pro:80/345715/562156/2639462
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/UoZBcq.png" ,STREET FIGHTER
 http://saga10.pro:80/345715/562156/2639463
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/oy7b0w.png" ,SUPER AMIGOS
-http://saga10.pro:80/345715/562156/2639464
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/hwwN1U.png" ,SUPER HOMEM
 http://saga10.pro:80/345715/562156/2639465
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/uZvxoy.png" ,SUPER SHOCK
@@ -507,8 +307,6 @@ http://saga10.pro:80/345715/562156/2639467
 http://saga10.pro:80/345715/562156/2639468
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Q0stVV.png" ,TAZ MANIA
 http://saga10.pro:80/345715/562156/2639469
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/WZDsMi.png" ,TICO E TECO
-http://saga10.pro:80/345715/562156/2639471
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/img922/8126/z1Zw6K.gif" ,TIMÃO E PUMBA
 http://saga10.pro:80/345715/562156/2639472
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/5k2iQk.png" ,TOM & JERRY
@@ -517,14 +315,8 @@ http://saga10.pro:80/345715/562156/2639473
 http://saga10.pro:80/345715/562156/2639476
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BUn2Dx.png" ,TRES ESPIAS DEMAIS
 http://saga10.pro:80/345715/562156/2639477
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/fUNMlu.png" ,UMA FAMÍLIA DA PESADA
-http://saga10.pro:80/345715/562156/2639478
 #EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/ek2223.png" ,URSINHOS CARINHOSOS
 http://saga10.pro:80/345715/562156/2639480
-#EXTINF:-1 group-title="ESPECIAIS DESENHOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" ,ZÉ BUSCAPÉ
-http://saga10.pro:80/345715/562156/2639482
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" ,A MULHER BIÔNICA (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627287
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/rd0wE9.png" ,AREA RESTRITA AEROPORTO
 http://saga10.pro:80/345715/562156/2627288
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Amo2qq.png" ,AS PANTERAS (CLÁSSICO)
@@ -533,10 +325,6 @@ http://saga10.pro:80/345715/562156/2627289
 http://saga10.pro:80/345715/562156/2627290
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/jrZJxt.png" ,CSI MIAMI
 http://saga10.pro:80/345715/562156/2627293
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/OI5GEH.png" ,DOIS HOMENS E MEIO
-http://saga10.pro:80/345715/562156/2627294
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" ,EU A PATROA E AS CRAINÇAS
-http://saga10.pro:80/345715/562156/2627295
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" ,EU A PATROA E AS CRIANÇAS T01
 http://saga10.pro:80/345715/562156/2627296
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/5phXv9.png" ,EU A PATROA E AS CRIANÇAS T02
@@ -549,208 +337,46 @@ http://saga10.pro:80/345715/562156/2627299
 http://saga10.pro:80/345715/562156/2627300
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/uXmXEU.png" ,FAMÍLIA DINOSSAUROS
 http://saga10.pro:80/345715/562156/2627301
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/921/6ii4rF.png" ,JIRAIYA: O INCRÍVEL NINJA
-http://saga10.pro:80/345715/562156/2627313
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/Ab8xa2.png" ,OS NORMAIS
-http://saga10.pro:80/345715/562156/2627314
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/ekWDEp.png" ,OS TRAPALHÕES - CLÁSSICOS
-http://saga10.pro:80/345715/562156/2627315
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/P4t7Xv.png" ,OS TRÊS PATETAS
 http://saga10.pro:80/345715/562156/2627316
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/vSEPMm.png" ,POLICIA 24H
 http://saga10.pro:80/345715/562156/2627317
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/9/97/Fantasia-programa.jpg" ,PROGRAMA FANTASIA (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627318
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4a/Programalivre-200x150.jpg" ,PROGRAMA LIVRE (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627319
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/17/Planeta_Xuxa.jpg/250px-Planeta_Xuxa.jpg" ,PROGRAMA PLANETA XUXA (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627320
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png" ,PROGRAMA PÂNICO - NARCOS (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627321
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://jpimg.com.br/uploads/2017/04/3908938880-panico-na-band-300x170.png" ,PROGRAMA PÂNICO - REI DROGADO (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627322
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://i.ytimg.com/vi/3BgOUwbfhCI/hqdefault.jpg" ,PROGRAMA RETRATO FALADO (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627323
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/7/7a/Festival_Sertanejo.jpg" ,PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627324
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/2/20/Showdomilhaosbt.jpg" ,PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627325
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://sfnoticias.com.br/wp-content/uploads/2015/04/capa1.jpg" ,PROGRAMA TRÓFEU IMPRENSA (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627326
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="http://vejasp.abril.com.br/wp-content/uploads/2020/11/1604601686659.jpg?quality=70&strip=info&w=640&resize=1200,800" ,PROGRAMA TV CRUJ (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627327
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/ipo4nn.png" ,STAR TREK - (CLÁSSICO)
-http://saga10.pro:80/345715/562156/2627328
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nZLMQX.png" ,THE BIG BAN THEORY
-http://saga10.pro:80/345715/562156/2627329
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" ,TODO MUNDO ODEIA O CRIS
-http://saga10.pro:80/345715/562156/2627330
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" ,TODO MUNDO ODEIA O CRIS T01
-http://saga10.pro:80/345715/562156/2627331
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" ,TODO MUNDO ODEIA O CRIS T02
 http://saga10.pro:80/345715/562156/2627332
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" ,TODO MUNDO ODEIA O CRIS T03
 http://saga10.pro:80/345715/562156/2627333
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/HUmzYG.png" ,TODO MUNDO ODEIA O CRIS T04
 http://saga10.pro:80/345715/562156/2627334
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://occ-0-901-448.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" ,UM MALUCO NO PEDAÇO
-http://saga10.pro:80/345715/562156/2627335
 #EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/yz8ZnU.png" ,VAI QUE COLA!
 http://saga10.pro:80/345715/562156/2627336
-#EXTINF:-1 group-title="ESPECIAIS SERIADOS 24h" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/8eC2rw.png" ,ZÉ BUSCAPÉ
-http://saga10.pro:80/345715/562156/2627337
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" ,BAND SPORTS FHD
 http://saga10.pro:80/345715/562156/2909058
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" ,BAND SPORTS HD
 http://saga10.pro:80/345715/562156/2909056
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" ,BAND SPORTS HD
-http://saga10.pro:80/345715/562156/2909057
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" ,BANDSPORTS SD
-http://saga10.pro:80/345715/562156/2909059
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" ,COMBATE FHD
 http://saga10.pro:80/345715/562156/2909060
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" ,COMBATE HD
 http://saga10.pro:80/345715/562156/2909061
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" ,COMBATE SD
 http://saga10.pro:80/345715/562156/2909062
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" ,ESPN 2 FHD
-http://saga10.pro:80/345715/562156/3880625
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" ,ESPN 2 HD
-http://saga10.pro:80/345715/562156/3880626
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cyuWDd.png" ,ESPN 2 SD
-http://saga10.pro:80/345715/562156/3880627
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" ,ESPN 3 FHD
-http://saga10.pro:80/345715/562156/3880629
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" ,ESPN 3 HD
-http://saga10.pro:80/345715/562156/3880630
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/klF98N.png" ,ESPN 3 SD
-http://saga10.pro:80/345715/562156/3880631
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" ,ESPN 4 FHD
-http://saga10.pro:80/345715/562156/3880633
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" ,ESPN 4 HD
-http://saga10.pro:80/345715/562156/3880634
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/JNs4Dg.png" ,ESPN 4 SD
-http://saga10.pro:80/345715/562156/3880635
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" ,ESPN 5 FHD
-http://saga10.pro:80/345715/562156/3880637
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" ,ESPN 5 HD
-http://saga10.pro:80/345715/562156/3880638
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://associacaoneo.com.br/wp-content/uploads/2024/02/ESPN-5-logo-460x260_c.png" ,ESPN 5 SD
-http://saga10.pro:80/345715/562156/3880639
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" ,ESPN EXTRA FHD
-http://saga10.pro:80/345715/562156/3880641
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" ,ESPN EXTRA HD
-http://saga10.pro:80/345715/562156/3880642
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" ,ESPN EXTRA SD
-http://saga10.pro:80/345715/562156/3880643
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" ,ESPN FHD
-http://saga10.pro:80/345715/562156/3880644
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" ,ESPN HD
-http://saga10.pro:80/345715/562156/3880645
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Qy3Pvx.png" ,ESPN SD
-http://saga10.pro:80/345715/562156/3880646
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/nfl.png" ,NFL FHD
-http://saga10.pro:80/345715/562156/3880055
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/xLogo-Preto.png.pagespeed.ic.zqHinWurw6.png" ,NSPORTES 1 FHD
-http://saga10.pro:80/345715/562156/2818801
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/vmxvzS.png" ,ALL SPORTS
-http://saga10.pro:80/345715/562156/2649030
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" ,AMAZON PRIME - 01
-http://saga10.pro:80/345715/562156/2649031
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" ,AMAZON PRIME - 02
-http://saga10.pro:80/345715/562156/2649032
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" ,AMAZON PRIME - 03
-http://saga10.pro:80/345715/562156/2649033
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png" ,AMAZON PRIME - 04
-http://saga10.pro:80/345715/562156/2649034
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://agfight.com/wp-content/uploads/2021/03/Bjj-Star-1024x683.jpg" ,BJJSTARS.TV
-http://saga10.pro:80/345715/562156/2908952
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" ,DISNEY+ 1 HD
-http://saga10.pro:80/345715/562156/2649060
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" ,DISNEY+ 2 HD
-http://saga10.pro:80/345715/562156/2649061
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZIkxVpFZiVHQNIloSbJw9g.png" ,DISNEY+ 3 HD
-http://saga10.pro:80/345715/562156/2649062
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://www.fontedos.com/logos//starplus.png" ,DISNEY+ 4 HD
-http://saga10.pro:80/345715/562156/3389881
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://www.fontedos.com/logos//starplus.png" ,DISNEY+ 5 HD
-http://saga10.pro:80/345715/562156/3389882
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://www.fontedos.com/logos//starplus.png" ,DISNEY+ 6 HD
-http://saga10.pro:80/345715/562156/3389883
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://www.fontedos.com/logos//starplus.png" ,DISNEY+ 7 HD
-http://saga10.pro:80/345715/562156/3389884
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BWZxtYG.png" ,FMS TV FHD (COMBATE)
-http://saga10.pro:80/345715/562156/3045766
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" ,FURACAO LIVE 2
-http://saga10.pro:80/345715/562156/2908955
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" ,FURACAO TV
-http://saga10.pro:80/345715/562156/2839448
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" ,GOAT 1
-http://saga10.pro:80/345715/562156/2818791
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" ,GOAT 2
-http://saga10.pro:80/345715/562156/2818792
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" ,GOAT 3
-http://saga10.pro:80/345715/562156/2818793
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0uwmnXf_XtCQz_A4x405Y9Fp9moBiJmIxU3Jx8IzxdMbwLAxuOcXtz_P1CrpE53m4w.png" ,NBA LEAGUE PASS TV HD
-http://saga10.pro:80/345715/562156/2649046
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" ,NOSSO FUTEBOL - 1 HD
-http://saga10.pro:80/345715/562156/2649051
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" ,NOSSO FUTEBOL - 2 HD
-http://saga10.pro:80/345715/562156/2649052
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" ,NOSSO FUTEBOL - 3 HD
-http://saga10.pro:80/345715/562156/2649053
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthZKr_KzmZfCKFYM4GvKSyKA.png" ,NOSSO FUTEBOL - HD
-http://saga10.pro:80/345715/562156/2649050
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://blog.tvnsports.com.br/wp-content/uploads/2021/09/xLogo-Preto.png.pagespeed.ic.zqHinWurw6.png" ,NSPORTES 3 FHD
-http://saga10.pro:80/345715/562156/2818799
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 01
-http://saga10.pro:80/345715/562156/2649054
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 02
-http://saga10.pro:80/345715/562156/2649055
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 03
-http://saga10.pro:80/345715/562156/2649056
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 04
-http://saga10.pro:80/345715/562156/2649057
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 05
-http://saga10.pro:80/345715/562156/2649058
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://i.imgur.com/BLwIrkC.png" ,PARAMOUNT PLUS - 06
-http://saga10.pro:80/345715/562156/2649059
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" ,TNT SPORTS 01
-http://saga10.pro:80/345715/562156/2649063
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" ,TNT SPORTS 02
-http://saga10.pro:80/345715/562156/2649064
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BydI0U.png" ,TNT SPORTS 03
-http://saga10.pro:80/345715/562156/2649065
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/fYoMcp.png" ,UFC FIGHT PASS
-http://saga10.pro:80/345715/562156/2649066
-#EXTINF:-1 group-title="ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/fYoMcp.png" ,UFC FIGTH PASS 2
-http://saga10.pro:80/345715/562156/2852020
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,2022 Através da minha Janela
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14463484.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,2023  Através da minha Janela 2: Além do Mar
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21245882.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,2024Através da minha Janela 3: Olho nos olhos
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28105944.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,40 dias e 40 noites
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0243736.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Arte d Amar
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28355490.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Cor da Vingança
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2793072.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Guerra do Hambúrguer
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0119215.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Guerra do Hambúrguer 2
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt25289836.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Guerra dos Mundos – O Ataque 2023
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12519802.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Lenda do Cavaleiro Sem Cabeça
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0051850.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,A Liga
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12610390.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Missy Errada
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9619798.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Morte do Demônio
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1288558.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Nova Geração da Máfia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9010322.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Ordem
@@ -767,8 +393,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21958136.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt17074644.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,A Última Invocação
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26758292.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Acampamento do pecado
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Acordo com o Diabo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13836760.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Ad Vitam
@@ -845,14 +469,10 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23785128.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14418234.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Chefes de Estado
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13357520.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Cherry 2000
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD/FHD5/tt0092746.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Com Unhas e Dentes
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35669009.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Como Treinar o Seu Dragão
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26743210.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Conexão Jamaica
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0281190.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Confia: Sonho de Cria
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34581855.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Corações Roubados
@@ -907,32 +527,16 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28955168.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5779228.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Goyo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32598483.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Guarda Costas e Assassinos
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Guerra Contra o Terror
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21217688.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Guerra dos Mundos 2005
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0407304.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Hacker – Privacidade Violada
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11027850.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Histeria
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0212235.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Homem com H
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35301431.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Hot Wheels AcceleRacers: A Corrida Final
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0865293.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Hot Wheels AcceleRacers: A Velocidade Do Silêncio
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0836633.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Hot Wheels AcceleRacers: Ignição
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2054778.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Hot Wheels AcceleRacers: Ponto De Ruptura
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0870671.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Improvisação Perigosa
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31121295.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Inatividade Paranormal
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt2243537.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Inatividade Paranormal 2
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2828996.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Invasão U.S.A.
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0089348.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Ip Man Kung Fu Master
@@ -945,12 +549,8 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10545296.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35636950.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Karatê Kid: Lendas
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1674782.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Larva Ilhados – O Filme
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12588448.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Leve-me
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6598626.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Ligados pelo Amor
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2205697.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Lilo & Stitch
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11655566.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Madame Teia
@@ -959,8 +559,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11057302.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14181816.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Mais um Besteirol ao Extremo
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0806147.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Malcolm X
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0104797.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Mamonas Assassinas O Filme
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29713426.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Marcas da Vida
@@ -979,8 +577,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23744022.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18559464.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Meu Primo Vinny
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0104952.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Meu Vizinho Mafioso
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD5/tt0190138.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Missão Porto Seguro
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35330349.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Missão Suicida
@@ -1001,10 +597,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13186482.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Na Trilha do Perigo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12180508.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Nikita: Criada para Matar
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0100263.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Ninja Assassino
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1186367.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Nosso Segredinho
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31022050.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Novocaine: À Prova de Dor
@@ -1019,8 +611,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28696532.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8999762.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Demônio Entre Nós
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt19895130.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Destino de Júpiter
-http://fhd1.oneplayer.site/ ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1617661.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Dono da Festa
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0283111.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Dono da Festa 3
@@ -1037,8 +627,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2888046.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2076298.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Homem nas Trevas 2
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6246322.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,O Leitor
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0976051.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,O Macaco
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27714946.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,O Mal Mora Aqui
@@ -1067,8 +655,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28630624.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30308957.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Os Bad Boas
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27675583.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Os Gatões Uma Nova Balada
-http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD3/tt0377818.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Os Mercenários 4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3291150.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Os Novatos
@@ -1119,14 +705,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31433402.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7638246.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Sede de Sangue
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11584674.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://i.imgur.com/L89LBAz.png" ,Sem sentido
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0120820.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Separados pelo Casamento
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0452594.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Shaun O Carneiro: A Fazenda Contra-Ataca
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6193408.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Shaun o Carneiro: As Lhamas do Fazendeiro
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5174284.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Shaun o Carneiro: Aventura de Natal
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15857304.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Shaun o Carneiro: O Filme
@@ -1173,16 +751,12 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5433140.mp4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt16366836.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Vidas Importam
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8171000.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Vingadores Ultimato
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD5/tt4154796.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Volta pra Mim
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6462958.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Xaque Mate
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30850554.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Zoolander
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0196229.mp4
-#EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Álibi.com
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5657028.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,É Pura Sorte
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0102729.mp4
 #EXTINF:-1 group-title="FILMES DIVERSOS" tvg-logo="https://imgur.com/L89LBAz.png" ,Últimos Sobreviventes
@@ -1201,8 +775,6 @@ http://saga10.pro:80/345715/562156/2639892
 http://saga10.pro:80/345715/562156/2639893
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" ,ARTE 1 FHD
 http://saga10.pro:80/345715/562156/2639894
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" ,ARTE 1 HD
-http://saga10.pro:80/345715/562156/2639895
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/eOa5XX.png" ,ARTE 1 SD
 http://saga10.pro:80/345715/562156/2639896
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" ,AXN FHD
@@ -1223,8 +795,6 @@ http://saga10.pro:80/345715/562156/2639903
 http://saga10.pro:80/345715/562156/2639904
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/u4sccn.png" ,CANAL SONY SD
 http://saga10.pro:80/345715/562156/2639905
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" ,CINEMAX FHD
-http://saga10.pro:80/345715/562156/2639908
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" ,CINEMAX HD
 http://saga10.pro:80/345715/562156/2639909
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" ,CINEMAX SD
@@ -1253,12 +823,6 @@ http://saga10.pro:80/345715/562156/2639929
 http://saga10.pro:80/345715/562156/2639930
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/Jbr3A1.png" ,STUDIO UNIVERSAL SD
 http://saga10.pro:80/345715/562156/2639931
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" ,SYFY FHD
-http://saga10.pro:80/345715/562156/2639932
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" ,SYFY HD
-http://saga10.pro:80/345715/562156/2639933
-#EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/5b1MAd.png" ,SYFY SD
-http://saga10.pro:80/345715/562156/2639934
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" ,TNT FHD
 http://saga10.pro:80/345715/562156/2639935
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" ,TNT HD
@@ -1333,26 +897,6 @@ http://saga10.pro:80/345715/562156/1263066
 http://saga10.pro:80/345715/562156/1263065
 #EXTINF:-1 group-title="HBO" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" ,HBO+ SD
 http://saga10.pro:80/345715/562156/1263064
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 01
-http://saga10.pro:80/345715/562156/2649042
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 02
-http://saga10.pro:80/345715/562156/2649043
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 03
-http://saga10.pro:80/345715/562156/2649044
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 04
-http://saga10.pro:80/345715/562156/2649045
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 05
-http://saga10.pro:80/345715/562156/3044812
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 06
-http://saga10.pro:80/345715/562156/3044813
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 07
-http://saga10.pro:80/345715/562156/3867361
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 08
-http://saga10.pro:80/345715/562156/3867362
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 09
-http://saga10.pro:80/345715/562156/3867363
-#EXTINF:-1 group-title="HBO MAX" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/1VHuk2.png" ,HBO MAX 10
-http://saga10.pro:80/345715/562156/3867364
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" ,BAND NEWS FHD
 http://saga10.pro:80/345715/562156/1263120
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" ,BAND NEWS HD
@@ -1385,52 +929,6 @@ http://saga10.pro:80/345715/562156/393032
 http://saga10.pro:80/345715/562156/393028
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://imgur.com/K9gHNmZ.png" ,FILMES SUSPENSE
 http://saga10.pro:80/345715/562156/393036
-#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/923/Rdyv6E.png" ,INVESTIGAÇÃO
-http://saga10.pro:80/345715/562156/2416583
-#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://imagizer.imageshack.com/v2/320x240q70/922/A5YvTu.png" ,VIDA REAL
-http://saga10.pro:80/345715/562156/2416584
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" ,PREMIERE 2 FHD
-http://saga10.pro:80/345715/562156/2909015
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" ,PREMIERE 2 HD
-http://saga10.pro:80/345715/562156/2909016
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" ,PREMIERE 2 SD
-http://saga10.pro:80/345715/562156/2909017
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" ,PREMIERE 3 FHD
-http://saga10.pro:80/345715/562156/2909018
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" ,PREMIERE 3 HD
-http://saga10.pro:80/345715/562156/2909019
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" ,PREMIERE 3 SD
-http://saga10.pro:80/345715/562156/2909020
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" ,PREMIERE 4 FHD
-http://saga10.pro:80/345715/562156/2909021
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" ,PREMIERE 4 HD
-http://saga10.pro:80/345715/562156/2909022
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" ,PREMIERE 4 SD
-http://saga10.pro:80/345715/562156/2909023
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" ,PREMIERE 5 FHD
-http://saga10.pro:80/345715/562156/2909024
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" ,PREMIERE 5 HD
-http://saga10.pro:80/345715/562156/2909025
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" ,PREMIERE 5 SD
-http://saga10.pro:80/345715/562156/2909026
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" ,PREMIERE 6 FHD
-http://saga10.pro:80/345715/562156/2909027
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" ,PREMIERE 6 HD
-http://saga10.pro:80/345715/562156/2909028
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" ,PREMIERE 6 SD
-http://saga10.pro:80/345715/562156/2909029
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" ,PREMIERE 7 FHD
-http://saga10.pro:80/345715/562156/2909030
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" ,PREMIERE 7 HD
-http://saga10.pro:80/345715/562156/2909031
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" ,PREMIERE 7 SD
-http://saga10.pro:80/345715/562156/2909032
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" ,PREMIERE CLUBES FHD
-http://saga10.pro:80/345715/562156/2909035
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" ,PREMIERE CLUBES HD
-http://saga10.pro:80/345715/562156/2909036
-#EXTINF:-1 group-title="PREMIERE" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" ,PREMIERE CLUBES SD
-http://saga10.pro:80/345715/562156/2909037
 #EXTINF:-1 group-title="SPORTV" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" ,SPORTV 2 FHD
 http://saga10.pro:80/345715/562156/2909004
 #EXTINF:-1 group-title="SPORTV" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/73crmZ.png" ,SPORTV 2 HD
@@ -1461,14 +959,10 @@ http://saga10.pro:80/345715/562156/1263093
 http://saga10.pro:80/345715/562156/1263092
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/CPK6Ml.png" ,TELECINE CULT SD
 http://saga10.pro:80/345715/562156/1263091
-#EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" ,TELECINE FUN FHD
-http://saga10.pro:80/345715/562156/1263096
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" ,TELECINE FUN HD
 http://saga10.pro:80/345715/562156/1263095
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/DLEPuL.png" ,TELECINE FUN SD
 http://saga10.pro:80/345715/562156/1263094
-#EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" ,TELECINE PIPOCA FHD
-http://saga10.pro:80/345715/562156/1263099
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" ,TELECINE PIPOCA HD
 http://saga10.pro:80/345715/562156/1263098
 #EXTINF:-1 group-title="TELECINE" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/46pL8w.png" ,TELECINE PIPOCA SD
@@ -1561,8 +1055,6 @@ http://saga10.pro:80/345715/562156/1263408
 http://saga10.pro:80/345715/562156/1263407
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" ,TLC FHD
 http://saga10.pro:80/345715/562156/1263415
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" ,TLC HD
-http://saga10.pro:80/345715/562156/1263414
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/55JFAv.png" ,TLC SD
 http://saga10.pro:80/345715/562156/1263413
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" ,TRAVEL BOX BRAZIL FHD
@@ -1573,8 +1065,6 @@ http://saga10.pro:80/345715/562156/1263417
 http://saga10.pro:80/345715/562156/1263416
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" ,WOOHOO FHD
 http://saga10.pro:80/345715/562156/1263427
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" ,WOOHOO HD
-http://saga10.pro:80/345715/562156/1263426
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png" ,WOOHOO SD
 http://saga10.pro:80/345715/562156/1263425
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 01
@@ -1599,26 +1089,16 @@ http://saga10.pro:80/345715/562156/2627346
 http://saga10.pro:80/345715/562156/2627347
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 100
 http://saga10.pro:80/345715/562156/2627436
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 11
-http://saga10.pro:80/345715/562156/2627348
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 12
 http://saga10.pro:80/345715/562156/2627349
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 13
 http://saga10.pro:80/345715/562156/2627350
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 15
-http://saga10.pro:80/345715/562156/2627351
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 16
 http://saga10.pro:80/345715/562156/2627352
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 17
-http://saga10.pro:80/345715/562156/2627353
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 18
 http://saga10.pro:80/345715/562156/2627354
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 19
-http://saga10.pro:80/345715/562156/2627355
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 20
 http://saga10.pro:80/345715/562156/2627356
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 21
-http://saga10.pro:80/345715/562156/2627357
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 22
 http://saga10.pro:80/345715/562156/2627358
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 23
@@ -1629,16 +1109,12 @@ http://saga10.pro:80/345715/562156/2627360
 http://saga10.pro:80/345715/562156/2627361
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 26
 http://saga10.pro:80/345715/562156/2627362
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 27
-http://saga10.pro:80/345715/562156/2627363
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 28
 http://saga10.pro:80/345715/562156/2627364
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 29
 http://saga10.pro:80/345715/562156/2627365
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 30
 http://saga10.pro:80/345715/562156/2627366
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 31
-http://saga10.pro:80/345715/562156/2627367
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 32
 http://saga10.pro:80/345715/562156/2627368
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 33
@@ -1653,8 +1129,6 @@ http://saga10.pro:80/345715/562156/2627372
 http://saga10.pro:80/345715/562156/2627373
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 38
 http://saga10.pro:80/345715/562156/2627374
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 39
-http://saga10.pro:80/345715/562156/2627375
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 40
 http://saga10.pro:80/345715/562156/2627376
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 41
@@ -1683,8 +1157,6 @@ http://saga10.pro:80/345715/562156/2627387
 http://saga10.pro:80/345715/562156/2627388
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 53
 http://saga10.pro:80/345715/562156/2627389
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 54
-http://saga10.pro:80/345715/562156/2627390
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 55
 http://saga10.pro:80/345715/562156/2627391
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 56
@@ -1699,10 +1171,6 @@ http://saga10.pro:80/345715/562156/2627395
 http://saga10.pro:80/345715/562156/2627396
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 61
 http://saga10.pro:80/345715/562156/2627397
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 62
-http://saga10.pro:80/345715/562156/2627398
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 63
-http://saga10.pro:80/345715/562156/2627399
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 64
 http://saga10.pro:80/345715/562156/2627400
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 65
@@ -1735,8 +1203,6 @@ http://saga10.pro:80/345715/562156/2627413
 http://saga10.pro:80/345715/562156/2627414
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 79
 http://saga10.pro:80/345715/562156/2627415
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 80
-http://saga10.pro:80/345715/562156/2627416
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 81
 http://saga10.pro:80/345715/562156/2627417
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 82
@@ -1755,10 +1221,6 @@ http://saga10.pro:80/345715/562156/2627423
 http://saga10.pro:80/345715/562156/2627424
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 89
 http://saga10.pro:80/345715/562156/2627425
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 90
-http://saga10.pro:80/345715/562156/2627426
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 91
-http://saga10.pro:80/345715/562156/2627427
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 92
 http://saga10.pro:80/345715/562156/2627428
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 93
@@ -1771,39 +1233,11 @@ http://saga10.pro:80/345715/562156/2627431
 http://saga10.pro:80/345715/562156/2627432
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 97
 http://saga10.pro:80/345715/562156/2627433
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 98
-http://saga10.pro:80/345715/562156/2627434
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" ,ADULTO 99
 http://saga10.pro:80/345715/562156/2627435
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,BIGASS HD
-http://saga10.pro:80/345715/562156/2612611
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,BIGDICK HD
-http://saga10.pro:80/345715/562156/2612612
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,BIGTITS HD
-http://saga10.pro:80/345715/562156/2612613
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,BLOWJOB HD
-http://saga10.pro:80/345715/562156/2612614
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,CUCKOLD HD
-http://saga10.pro:80/345715/562156/2612615
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,FETISH HD
-http://saga10.pro:80/345715/562156/2612616
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,FLUXUSLUST HD
-http://saga10.pro:80/345715/562156/2612617
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/svwrJV.png" ,FOR MAN
 http://saga10.pro:80/345715/562156/2613407
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,HARDCORE HD
-http://saga10.pro:80/345715/562156/2612618
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,INTERRACIAL HD
-http://saga10.pro:80/345715/562156/2612619
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,LATINA HF
-http://saga10.pro:80/345715/562156/2612620
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/3UiwoB.png" ,LESBIAN
 http://saga10.pro:80/345715/562156/2613408
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,MILF HD
-http://saga10.pro:80/345715/562156/2612621
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,PORNSTAR HD
-http://saga10.pro:80/345715/562156/2612622
 #EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,POV HD
 http://saga10.pro:80/345715/562156/2612623
-#EXTINF:-1 group-title="☢ADULTOS☢" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" ,RUSSIAN
-http://saga10.pro:80/345715/562156/2612624
